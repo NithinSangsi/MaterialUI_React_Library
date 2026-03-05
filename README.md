@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="MUI Logo" width="150" height="150"/>
+  <img src="https://github.com/NithinSangsi/MaterialUI_React_Library/blob/932f00adab8d27ece263e480e4bd90f47c8efb66/MUI_logo.png" alt="MUI Logo" width="250" height="250"/>
 </p>
 
 <h1 align="center">
