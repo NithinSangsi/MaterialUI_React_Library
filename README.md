@@ -1,4 +1,11 @@
-# What is MaterialUI
+<p align="center">
+  <img src="" alt="MUI Logo" width="150" height="150"/>
+</p>
+
+<h1 align="center">
+   What is MaterialUI
+</h1>
+
 
 Material UI (MUI) is a popular React component library that implements Google’s Material Design. It provides pre-built UI components like buttons, cards, navigation bars, grids, and forms to help developers build modern, responsive, and consistent interfaces quickly.
 
