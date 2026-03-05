@@ -1,4 +1,11 @@
-# What is MaterialUI
+<p align="center">
+  <img src="https://github.com/NithinSangsi/MaterialUI_React_Library/blob/932f00adab8d27ece263e480e4bd90f47c8efb66/MUI_logo.png" alt="MUI Logo" width="250" height="250"/>
+</p>
+
+<h1 align="center">
+   What is MaterialUI
+</h1>
+
 
 Material UI (MUI) is a popular React component library that implements Google’s Material Design. It provides pre-built UI components like buttons, cards, navigation bars, grids, and forms to help developers build modern, responsive, and consistent interfaces quickly.
 
@@ -104,7 +111,7 @@ Follow the steps below to run the project locally.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/recipe-finder.git
+git clone https://github.com/NithinSangsi/MaterialUI_React_Library.git
 ```
 
 ---
@@ -112,7 +119,7 @@ git clone https://github.com/your-username/recipe-finder.git
 ### 2️⃣ Navigate to Project Folder
 
 ```bash
-cd recipe-finder
+cd MUI
 ```
 
 ---
@@ -189,14 +196,9 @@ https://mui.com/
 
 ---
 
-# 👨‍💻 Author
 
-Developed by **Nithin Sangsi**
+# ⭐ As of NOW
 
----
-
-# ⭐ Acknowledgement
-
-Recipe data is fetched from an **online recipe API** used for demonstration and educational purposes.
+Recipe data is fetched from an **online recipe API** used for demonstration and Learning purposes.
 
 ---
