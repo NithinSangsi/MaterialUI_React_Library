@@ -104,7 +104,7 @@ Follow the steps below to run the project locally.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/recipe-finder.git
+git clone https://github.com/NithinSangsi/MaterialUI_React_Library.git
 ```
 
 ---
@@ -112,7 +112,7 @@ git clone https://github.com/your-username/recipe-finder.git
 ### 2️⃣ Navigate to Project Folder
 
 ```bash
-cd recipe-finder
+cd MUI
 ```
 
 ---
@@ -189,14 +189,9 @@ https://mui.com/
 
 ---
 
-# 👨‍💻 Author
 
-Developed by **Nithin Sangsi**
+# ⭐ As of NOW
 
----
-
-# ⭐ Acknowledgement
-
-Recipe data is fetched from an **online recipe API** used for demonstration and educational purposes.
+Recipe data is fetched from an **online recipe API** used for demonstration and Learning purposes.
 
 ---
