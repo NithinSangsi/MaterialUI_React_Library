@@ -108,6 +108,68 @@ Recipe data is fetched from an **external Recipe API** available on the internet
 
 Follow the steps below to run the project locally.
 
+# ⚙️ Installation Setup
+
+Before installing **Material UI**, make sure your project already has **React** installed because Material UI depends on **React and ReactDOM**.
+
+---
+
+## 1️⃣ Install React and ReactDOM
+
+If you are creating a new React project, run:
+
+```bash
+npx create-vite@latest my-app
+```
+
+Then move into the project folder:
+
+```bash
+cd my-app
+```
+
+Install the required dependencies:
+
+```bash
+npm install
+```
+
+React and ReactDOM will be installed automatically.
+
+---
+
+## 2️⃣ Install Material UI Dependencies
+
+Material UI requires additional styling dependencies such as **Emotion**.
+
+Run the following command:
+
+```bash
+npm install @mui/material @emotion/react @emotion/styled
+```
+
+---
+
+## 3️⃣ (Optional) Install Material UI Icons
+
+If you want to use Material UI icons:
+
+```bash
+npm install @mui/icons-material
+```
+
+---
+
+After installing these dependencies, you can start using **Material UI components** like:
+
+* Buttons
+* Cards
+* AppBar
+* Grid
+* Typography
+* Icons
+
+
 ### 1️⃣ Clone the Repository
 
 ```bash
