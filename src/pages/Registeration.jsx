@@ -15,7 +15,7 @@ function Registeration(){
         }}
     >
         <Box>
-            <img src ="/public/MY_img.png" alt="Thumbs up" width="500px" height= '600px'/>
+            <img src ="/public/MY_img.png" alt="MY_Thumbs_up_img" width="500px" height= '600px'/>
         </Box>
         <Paper elevation={6} sx={{width: '500px',height : '500px', padding: '15px'}}>
             <Stack direction={'column'} spacing={3}>
